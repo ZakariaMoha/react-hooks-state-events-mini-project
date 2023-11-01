@@ -4,6 +4,7 @@ function TaskList() {
   return (
     <div className="tasks">
       {/* display a list of tasks using Task component */}
+      {taskList}
     </div>
   );
 }
