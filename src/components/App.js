@@ -32,7 +32,8 @@ function handleAddTask(newTask) {
     <div className="App">
       <h2>My tasks</h2>
       <CategoryFilter 
-        categories={CATEGORIES}
+        categories={CATEGORreact-hooks-state-events-mini-project
+}
         selectedCategory={category}
         onSelectCategory={setCategory}
       />
